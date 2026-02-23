@@ -71,6 +71,14 @@ const speakers = [
         img: 'https://media.licdn.com/dms/image/v2/D5603AQEnttDOslHdpQ/profile-displayphoto-crop_800_800/B56ZtA9uMCGgAI-/0/1766321483571?e=1773273600&v=beta&t=D3wmwuv0FZzbRAi2LHbE6XHt1EF5pNVZ0OXkcYXF0rE', 
         bio: '<small>She is an award-winning speaker and leader within Toastmasters International, having completed the Distinguished Toastmaster norm and served as Division Director for Makati, overseeing over 20 clubs in the Central Business District. She is also a published author and a recognized content creator, including being named the number one LinkedIn Creator in the Philippines in 2024 for Teaching and Education content.</small>' 
     },
+
+    { 
+        name: 'Jose Mari Villabroza', 
+        tag: 'President, Kantar Philippines Inc.', 
+        topic: 'The “Switch” Mindset: Disruption as a Sales Tool', 
+        img: 'https://png.pngtree.com/png-vector/20250512/ourmid/pngtree-default-avatar-profile-icon-gray-placeholder-vector-png-image_16213764.png', 
+        bio: '<small>Jayvee is a leading authority in market research and analytics, with deep expertise in consumer behavior, brand equity, innovation, and data modeling for business planning. He has advised organizations across FMCG, telco, financial services, and NGOs, helping teams translate insight into actionable growth strategies. His current focus is on the intersection of AI and consumer behavior, which makes this topic especially relevant to how markets shift today.</small>' 
+    },
     
     { 
         name: 'Coming Soon!', 
