@@ -9,6 +9,14 @@ const menuItems = [
 
 const speakers = [
     { 
+        name: 'Lito Villanueva', 
+        tag: ' Executive Vice President and Chief Innovation & Inclusion Officer of RCBC', 
+        topic: 'The Connected Consumer 2026: Beyond the Buy Button', 
+        img: 'https://fintechalliance.ph/wp-content/uploads/2022/06/LITO-VILLANUEVA-RCBC.jpg', 
+        bio: 'He is known for driving digital transformation and inclusion at scale and for shaping conversations in fintech and digital finance across the country' 
+    },
+    
+    { 
         name: 'Coming Soon!', 
         tag: 'Tech Visionary', 
         topic: 'Industry Disruptor', 
