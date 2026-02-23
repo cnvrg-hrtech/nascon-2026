@@ -51,9 +51,17 @@ const speakers = [
     { 
         name: 'Cliff Eala', 
         tag: 'Behavioural Strategist, Technologist, Author', 
-        topic: 'The Art of the Switch: Winning the Port-In War', 
+        topic: 'To Churn or Not to Churn?', 
         img: 'https://static.wixstatic.com/media/cc0172_2816c6d72d40463baebade26360df79c~mv2.jpg/v1/crop/x_0,y_51,w_1528,h_2037/fill/w_423,h_564,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cliff%20Eala%20Vinette.jpg', 
         bio: '<small>He is the CEO of BS Works, leading behavioural and data science projects across industries. He has built and sold a software company, built an intelligent lighting and IoT enterprise across multiple Asian markets, and has served in board and advisory roles across financial services and technology organizations.<br><br>Cliff also teaches Behaviour Change and Consumer Choice in a master’s program at the University of Asia and the Pacific, and pursued formal behavioural science training with rigorous experimentation, including large-scale work on behavioural prompting for payments.</small>' 
+    },
+
+    { 
+        name: 'Doreen Cooper-Medina', 
+        tag: 'International Learning and Development professional', 
+        topic: 'To Churn or Not to Churn?', 
+        img: 'https://media.licdn.com/dms/image/v2/D5603AQEnttDOslHdpQ/profile-displayphoto-crop_800_800/B56ZtA9uMCGgAI-/0/1766321483571?e=1773273600&v=beta&t=D3wmwuv0FZzbRAi2LHbE6XHt1EF5pNVZ0OXkcYXF0rE', 
+        bio: '<small>She is an award-winning speaker and leader within Toastmasters International, having completed the Distinguished Toastmaster norm and served as Division Director for Makati, overseeing over 20 clubs in the Central Business District. She is also a published author and a recognized content creator, including being named the number one LinkedIn Creator in the Philippines in 2024 for Teaching and Education content.</small>' 
     },
     
     { 
