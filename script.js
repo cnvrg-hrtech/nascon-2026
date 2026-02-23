@@ -35,9 +35,25 @@ const speakers = [
     { 
         name: 'Willie "Jun" Evangelista Jr.', 
         tag: 'Chairman, Personal Collection Direct Selling, Inc', 
-        topic: 'The State of the Ecosystem: Winning Through Partners', 
+        topic: 'Influencing the Influencers: Retail & Third-Party Management', 
         img: 'https://lh7-rt.googleusercontent.com/formsz/AN7BsVCs19bubwk1eVrPhY6Jf53YmWNxynupJOCZ7TrQsv5f2P6smaIO0yLzCSReI4off1NAH7jH96nQzgwlYGL7OThzosUqda5TeFD9x-bNe5EKhkCll6rJMd9KG5grY121FkHIk6c6k5R0KT11T0iVOSqPAPG2I-LbWz92?key=7bx7SY_ZooQEZ_VlzxqRVA', 
         bio: '<small>Ka-PC Jun is known not only as chairman and brand ambassador, but also as a digital mentor who helps dealers grow their business through practical, simple, and engaging guidance that makes selling doable and sustainable.<br><br>Under his leadership, Personal Collection has grown from a small operation into a multinational business with hundreds of branches and presence beyond the Philippines, while maintaining a strong focus on providing livelihood opportunities for entrepreneurs. He is also recognized for championing humility and hard work as leadership values that translate into execution.<br><br>What makes him especially relevant for us today is that direct selling is, at its core, influence without authority. You motivate and enable thousands of people who do not ‘report’ to you in the traditional sense, yet performance must still be consistent.</small>' 
+    },
+
+    { 
+        name: 'Ian Santos', 
+        tag: 'Founder and Chief Sales Sensei, Institute of Sales', 
+        topic: 'The Art of the Switch: Winning the Port-In War', 
+        img: 'https://iansantosconsultancy.com/wp-content/uploads/2024/09/Ian-Profile.jpg', 
+        bio: 'Ian is a sales and leadership consultant, master trainer, and motivational speaker, and the Founder and Managing Consultant of IMS Learning and Consulting, as well as the Founder and Chief Sales Sensei of the Institute of Sales. He has built and led sales and commercial organizations across multiple industries, and his work focuses on developing effective sales teams and leaders through practical, transformational approaches. What makes Ian especially relevant for this session is his strong bias for execution. He does not just talk about why customers switch. He breaks down how to address risk, remove friction, and guide customers through a seamless transition with confidence.' 
+    },
+
+    { 
+        name: 'Cliff Eala', 
+        tag: 'Behavioural Strategist, Technologist, Author', 
+        topic: 'The Art of the Switch: Winning the Port-In War', 
+        img: 'https://static.wixstatic.com/media/cc0172_2816c6d72d40463baebade26360df79c~mv2.jpg/v1/crop/x_0,y_51,w_1528,h_2037/fill/w_423,h_564,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cliff%20Eala%20Vinette.jpg', 
+        bio: '<small>He is the CEO of BS Works, leading behavioural and data science projects across industries. He has built and sold a software company, built an intelligent lighting and IoT enterprise across multiple Asian markets, and has served in board and advisory roles across financial services and technology organizations.<br><br>Cliff also teaches Behaviour Change and Consumer Choice in a master’s program at the University of Asia and the Pacific, and pursued formal behavioural science training with rigorous experimentation, including large-scale work on behavioural prompting for payments.</small>' 
     },
     
     { 
