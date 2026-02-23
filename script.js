@@ -10,10 +10,26 @@ const menuItems = [
 const speakers = [
     { 
         name: 'Lito Villanueva', 
-        tag: ' Executive Vice President and Chief Innovation & Inclusion Officer of RCBC', 
+        tag: 'Executive Vice President and Chief Innovation & Inclusion Officer of RCBC', 
         topic: 'The Connected Consumer 2026: Beyond the Buy Button', 
         img: 'https://fintechalliance.ph/wp-content/uploads/2022/06/LITO-VILLANUEVA-RCBC.jpg', 
         bio: 'He is known for driving digital transformation and inclusion at scale and for shaping conversations in fintech and digital finance across the country' 
+    },
+
+    { 
+        name: 'Jonathan Uy', 
+        tag: 'Chief Executive Office of J-Fiber', 
+        topic: 'The State of the Ecosystem: Winning Through Partners', 
+        img: 'https://media.licdn.com/dms/image/v2/C5103AQG1FqkpY_Mk7Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1515664763638?e=1773273600&v=beta&t=hWnK1d6d5qH-X9Ezd5ue-mmOc9ZKEVITZI_a5Q0JIjU', 
+        bio: 'He brings the partner operator’s view, from building and running service delivery capability on the ground, and what it takes to execute consistently across real-world constraints.' 
+    },
+
+    { 
+        name: 'Benjamin Azada', 
+        tag: 'Executive Vice President and Chief Operations Officer of Converge', 
+        topic: 'The State of the Ecosystem: Winning Through Partners', 
+        img: 'https://lh7-rt.googleusercontent.com/formsz/AN7BsVDvtbs_gwCzkvIofTfYuPnQaoA1_grNlP0mXWT0vJMi5Z1e_m9Rff7YeDTKQLH4z7CCmRJVkEE-jhL82l97dPdq6KY8AR--CyiqwPHAZ3pkknC5BE6zWnT4b7ukNOkGFZ3S-gkVPC4HmjvLFK_8yDgOLD6MdCgoLF54Tg?key=7bx7SY_ZooQEZ_VlzxqRVA', 
+        bio: 'He oversees core operations including Partner Enablement and Governance, plus operational analytics and assurance, giving him an end-to-end view of how partnerships scale, and where they break under delivery pressure.' 
     },
     
     { 
