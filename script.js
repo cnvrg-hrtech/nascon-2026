@@ -31,14 +31,15 @@ const speakers = [
         img: 'https://lh7-rt.googleusercontent.com/formsz/AN7BsVDvtbs_gwCzkvIofTfYuPnQaoA1_grNlP0mXWT0vJMi5Z1e_m9Rff7YeDTKQLH4z7CCmRJVkEE-jhL82l97dPdq6KY8AR--CyiqwPHAZ3pkknC5BE6zWnT4b7ukNOkGFZ3S-gkVPC4HmjvLFK_8yDgOLD6MdCgoLF54Tg?key=7bx7SY_ZooQEZ_VlzxqRVA', 
         bio: 'He oversees core operations including Partner Enablement and Governance, plus operational analytics and assurance, giving him an end-to-end view of how partnerships scale, and where they break under delivery pressure.' 
     },
-    
+
     { 
-        name: 'Coming Soon!', 
-        tag: 'Tech Visionary', 
-        topic: 'Industry Disruptor', 
-        img: 'https://lh7-rt.googleusercontent.com/formsz/AN7BsVAiAylHg-rf4ksf-eU1Ay8_qHkvRwpaaZVaUnqGaKvvgxBSICuKPb97M4FZwE9Bar7M6Hiwkbib0Ayr3AmoC_iZE0P1sX5w2O3NqO0iOSaCV2QylfMH20sDxrkNxXVE7FvRALf1fjti5RKesmphWpAKoyWjZxDmmqMleA?key=ZWZTTKYsQX6t2NYllweoDg', 
-        bio: 'Coming Soon!' 
+        name: 'Willie "Jun" Evangelista Jr.', 
+        tag: 'Chairman, Personal Collection Direct Selling, Inc', 
+        topic: 'The State of the Ecosystem: Winning Through Partners', 
+        img: 'https://lh7-rt.googleusercontent.com/formsz/AN7BsVCs19bubwk1eVrPhY6Jf53YmWNxynupJOCZ7TrQsv5f2P6smaIO0yLzCSReI4off1NAH7jH96nQzgwlYGL7OThzosUqda5TeFD9x-bNe5EKhkCll6rJMd9KG5grY121FkHIk6c6k5R0KT11T0iVOSqPAPG2I-LbWz92?key=7bx7SY_ZooQEZ_VlzxqRVA', 
+        bio: '<small>Ka-PC Jun is known not only as chairman and brand ambassador, but also as a digital mentor who helps dealers grow their business through practical, simple, and engaging guidance that makes selling doable and sustainable.<br><br>Under his leadership, Personal Collection has grown from a small operation into a multinational business with hundreds of branches and presence beyond the Philippines, while maintaining a strong focus on providing livelihood opportunities for entrepreneurs. He is also recognized for championing humility and hard work as leadership values that translate into execution.<br><br>What makes him especially relevant for us today is that direct selling is, at its core, influence without authority. You motivate and enable thousands of people who do not ‘report’ to you in the traditional sense, yet performance must still be consistent.</small>' 
     },
+    
     { 
         name: 'Coming Soon!', 
         tag: 'Tech Visionary', 
