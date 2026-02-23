@@ -33,6 +33,14 @@ const speakers = [
     },
 
     { 
+        name: 'Jason Domantay', 
+        tag: 'Award-winning digital marketing practitioner and video director', 
+        topic: 'The “Invisible” Channel: Optimizing Referral Networks', 
+        img: 'https://lh7-rt.googleusercontent.com/formsz/AN7BsVB49peQEyhsvvT_1vg_n3uklCbn4M6dU9SBeL2DlE7HFzYf00Bztfy_ANQMkPbR-eJCX2NSfWEMSHf1387r4sYXaHMxjt7Bkn-O4eCJVktMI8vtePhsNAKtxvW0MCnbVeJjMuHSeMPEkU5N18GiLbVvrgAu-SseaANC?key=ZWZTTKYsQX6t2NYllweoDg', 
+        bio: '<small>Mr. Jason Domantay has built a career across TV, digital media, startups, and consulting. From work as a TV director and executive producer, he moved into digital and social platforms, pioneered video content in the region, and later led content and growth roles across companies driving online engagement.<br><br>Today, he helps clients strengthen online reputation and build credibility through public relations, social media, and digital marketing.</small>' 
+    },
+
+    { 
         name: 'Willie "Jun" Evangelista Jr.', 
         tag: 'Chairman, Personal Collection Direct Selling, Inc', 
         topic: 'Influencing the Influencers: Retail & Third-Party Management', 
