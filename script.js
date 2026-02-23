@@ -87,7 +87,7 @@ function openPage(title) {
     if (title === "Speakers") {
         renderSpeakers();
     } else if (title === "Agenda") {
-        switchDay(1);
+        switchDay(2);
     } else {
         document.getElementById('page-content').innerHTML = infoData[title] || "Coming soon.";
     }
@@ -106,6 +106,7 @@ function closePage(id) {
 }
 
 // --- AGENDA LOGIC ---
+/*
 function switchDay(day) {
     const content = document.getElementById('page-content');
     
@@ -129,6 +130,31 @@ function switchDay(day) {
             <div class="timeline-line"></div>
             ${dayItems}
         </div>`;
+}
+*/
+
+function switchDay(day) {
+    const content = document.getElementById('page-content');
+    
+    // We only map the data for the day requested (which will be Day 2)
+    const dayItems = agendaData[day].map(item => `
+        <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <span class="time-label">${item.time}</span>
+            <div class="event-card" onclick="viewAgendaDetail('${item.id}')">
+                <strong>${item.title}</strong>
+                <span>${item.location}</span>
+            </div>
+        </div>
+    `).join('');
+
+    // Notice we removed the <div class="switcher-pill"> section entirely
+    content.innerHTML = `
+        <div class="timeline-container">
+            <div class="timeline-line"></div>
+            ${dayItems}
+        </div>
+    `;
 }
 
 function viewAgendaDetail(id) {
